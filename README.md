@@ -1,6 +1,5 @@
 # Package dependency downloader
-Script for downloading dependencies (.deb) and subsequent installation. For debian based linux destribution.
-
+Script for downloading dependencies (.deb) and subsequent installation. For debian based linux distribution.
 
 #### Usage
 
